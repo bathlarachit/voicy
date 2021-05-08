@@ -1,0 +1,2302 @@
+('D:\\atom projects\\py\\build\\j\\PYZ-00.pyz',
+ [('pywintypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\doctest.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\gettext.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\stat.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\calendar.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\configparser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\struct.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\bisect.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('packaging._typing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging._compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.__about__',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources.py2_warn',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\py2_warn.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\imp.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers._espeak',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\_espeak.py',
+   'PYMODULE'),
+  ('pyttsx3.six',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\six.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.nsss',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\nsss.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('comtypes.gen.SpeechLib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\gen\\SpeechLib.py',
+   'PYMODULE'),
+  ('comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\gen\\_C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\typeinfo.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes.npsupport',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\npsupport.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\tools\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\gen\\_00020430_0000_0000_C000_000000000046_0_2_0.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.espeak',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\drivers\\espeak.py',
+   'PYMODULE'),
+  ('wave',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\wave.py',
+   'PYMODULE'),
+  ('chunk',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\chunk.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pyrect',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('cffi',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('wincertstore',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\wincertstore.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('qtpy',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\__init__.py',
+   'PYMODULE'),
+  ('qtpy._version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\_version.py',
+   'PYMODULE'),
+  ('qtpy.QtWidgets',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\QtWidgets.py',
+   'PYMODULE'),
+  ('qtpy._patch.qheaderview',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\_patch\\qheaderview.py',
+   'PYMODULE'),
+  ('qtpy._patch',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\_patch\\__init__.py',
+   'PYMODULE'),
+  ('qtpy._patch.qcombobox',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\_patch\\qcombobox.py',
+   'PYMODULE'),
+  ('qtpy.QtCore',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\QtCore.py',
+   'PYMODULE'),
+  ('qtpy.QtGui',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\qtpy\\QtGui.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('cv2',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cv2\\__init__.py',
+   'PYMODULE'),
+  ('cv2.version',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cv2\\version.py',
+   'PYMODULE'),
+  ('cv2.data',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\cv2\\data\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pytweening',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('pyjokes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\__init__.py',
+   'PYMODULE'),
+  ('pyjokes.pyjokes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\pyjokes.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_it',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_it.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_eu',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_eu.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_gl',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_gl.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_es',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_es.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_de',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_de.py',
+   'PYMODULE'),
+  ('pyjokes.jokes_en',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyjokes\\jokes_en.py',
+   'PYMODULE'),
+  ('wolframalpha',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\wolframalpha\\__init__.py',
+   'PYMODULE'),
+  ('more_itertools',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('more_itertools.recipes',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('more_itertools.more',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('xmltodict',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\xmltodict.py',
+   'PYMODULE'),
+  ('speech_recognition',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('pyaudio',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyaudio.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\os.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\rachit bathla\\miniconda3\\envs\\myenv\\lib\\datetime.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\rachit '
+   'bathla\\miniconda3\\envs\\myenv\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE')])
